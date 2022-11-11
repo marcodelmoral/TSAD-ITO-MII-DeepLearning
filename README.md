@@ -14,6 +14,14 @@ Lo importante de este curso es comenzar a tener nociones básicas de Deep Learni
 4. Escribir sus dudas para revisarlas en clase.
 5. No olviden darle like y subscribirse.
 
+### Tarea 2
+
+1. Buscar datasets de su interés.
+    * Dos de regresión.
+    * Dos de clasificación.
+2. Ver esta lista <https://www.youtube.com/watch?v=KNAWp2S3w94&list=PLQY2H8rRoyvwWuPiWnuTDBHe7I0fMSsfO>.
+3. Implementar un perceptrón multicapa para operar el dataset de la tarea 2. Puede ser uno u otro o los dos.
+
 ## Bibliografía
 
 * [Deep Learning](http://www.deeplearningbook.org/) (Goodfellow, Bengio, Courville, 2016)
